@@ -1,6 +1,6 @@
 # langchain-multiagent-chatbot
 
-Production-grade life sciences multi-agent AI chatbot built with LangGraph, RAG, FastAPI, and Weaviate. Each domain routes to a specialized sub-agent grounded with structured knowledge via MCP schemas. Built for Volts Consulting (Jan 2026–Present).
+Production-grade life sciences multi-agent AI chatbot built with LangGraph, RAG, FastAPI, and Weaviate. Each domain routes to a specialized sub-agent grounded with structured knowledge via MCP schemas.
 
 ## Architecture
 
@@ -102,4 +102,4 @@ python app.py
 
 ## Based On
 
-Real work as **Generative AI Engineer at Volts Consulting** (Jan 2026–Present): end-to-end multi-agent chatbot for the life sciences domain with LangGraph routing, RAG, MCP schemas, and FastAPI backend.
+Real work as **Generative AI Engineer**: end-to-end multi-agent chatbot for the life sciences domain with LangGraph routing, RAG, MCP schemas, and FastAPI backend.
